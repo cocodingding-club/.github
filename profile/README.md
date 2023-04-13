@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+코코딩딩 배너 리드미 입니다.
+
+예쁘게 꾸며보아요!
 <!--
 
 **Here are some ideas to get you started:**
